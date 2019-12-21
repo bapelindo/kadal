@@ -5,7 +5,6 @@
 </head>
 <body>
 			<?php include 'koneksidb.php';?>
-
 <form action="tampil.php" method="POST">
 <label>Cari :</label>
 <input type="text" name="cari" placeholder="contoh bapel ...">
